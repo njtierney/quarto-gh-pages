@@ -3,7 +3,7 @@ project:
 
 book:
   title: "quarto-gh-pages"
-  author: "Norah Jones"
+  author: "Nicholas Tierney"
   date: "12/4/2023"
   chapters:
     - index.qmd
